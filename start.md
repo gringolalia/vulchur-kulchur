@@ -1,5 +1,5 @@
 ---
-title: Start  
+title: In Principio
 layout: page
 pager: true
 ---

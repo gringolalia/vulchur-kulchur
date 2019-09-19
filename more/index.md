@@ -1,10 +1,12 @@
 ---
-title: More 
+title: Cada Vez Mais
 layout: index
 dropdown: true
 content:
     - ../advanced
-    - ../blog 
+    - ../blog
+    - ../manual
+    - ../manual
     - ../manual
 
 ---

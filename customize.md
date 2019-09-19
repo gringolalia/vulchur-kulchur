@@ -1,11 +1,11 @@
 ---
-title: Customize 
-layout: page 
+title: Improvisando
+layout: page
 pager: true
 ---
 
 This page describes some ways to customize the website.
-{.lead} 
+{.lead}
 
 Theme
 =====
@@ -21,7 +21,7 @@ Navbar
 ======
 
 The number of items at the right side of the navbar is defined by the
-`navbar_right_items` variable. 
+`navbar_right_items` variable.
 
 A link to a folder in the navbar can optionally be implemented as a dropdown
 menu. Set the `dropdown` variable to `true` in the `index.md` file of the
@@ -41,10 +41,9 @@ Pager
 =====
 
 You can add a simple pager to the `page` and `simple_page` layouts by setting
-the `pager` variable to `true`. 
+the `pager` variable to `true`.
 
 More info
 =========
 
 For more info on customization possibilties, check the [advanced] page.
-

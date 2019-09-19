@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle|Material+Icons');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css');
+
 body {
   position: relative;
   padding-top: 50px;
   padding-bottom: 20px;
+	font-family: "News Cycle", sans-serif !important;
+	font-weight: 300px !important;
+	font-style: normal !important;
 }
 
 code {
@@ -74,7 +80,7 @@ code {
 
 /* heading scrolling */
 
-h2[id]:before, 
+h2[id]:before,
 h3[id]:before{
   content: "";
   display: block;
@@ -92,7 +98,7 @@ h3[id]:before{
   .sidebar.affix,
   .sidebar.affix-bottom {
     width: 213px;
-  } 
+  }
   .sidebar.affix {
     position: fixed; /* Undo the static from mobile first approach */
     top: 80px;
@@ -109,5 +115,3 @@ h3[id]:before{
     width: 263px;
   }
 }
-
-

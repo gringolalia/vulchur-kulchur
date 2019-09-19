@@ -1,12 +1,12 @@
 ---
-title: Urubu Quickstart
-layout: home 
+title: O Urubu-Andróide
+layout: home
 content:
     - start
     - content
     - customize
     - deploy
-    - more 
+    - more
 tagline:
-    Set up your new Urubu project quickly
+    Montar rapidamente boa documentação da sua engenhoca-sonhonhoca
 ---
